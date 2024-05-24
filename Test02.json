@@ -1,0 +1,14 @@
+[
+  {
+    "nazev": "modrá",
+    "red": 255,
+    "green": 255,
+    "blue": 255
+  },
+  {
+    "nazev": "zelené",
+    "red": 111,
+    "green": 111,
+    "blue": 111
+  }
+]
